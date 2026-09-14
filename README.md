@@ -37,7 +37,10 @@
 
 # 📖 Waseel (وسيل)
 
-[**🚀 Launch Waseel App ↗**](https://shiftedtech.github.io/waseel/) &nbsp;•&nbsp; [**✨ Features**](#-key-features) &nbsp;•&nbsp; [**💡 How It Works**](#-how-it-works) &nbsp;•&nbsp; [**⚖️ Legal & Licensing**](#️-legal--licensing)
+* **🌐 Landing Page:** [waseelapp.github.io/quranmemorytester](https://waseelapp.github.io/quranmemorytester/)
+* **🚀 Web Application:** [shiftedtech.github.io/waseel](https://shiftedtech.github.io/waseel/)
+
+[**✨ Features**](#-key-features) &nbsp;•&nbsp; [**💡 How It Works**](#-how-it-works) &nbsp;•&nbsp; [**⚖️ Legal & Licensing**](#-legal--licensing)
 
 ---
 
@@ -105,19 +108,6 @@ Integrates high-quality audio APIs for instant auditory confirmation.
 * **Qari:** Sheikh Mahmoud Khalil Al-Hussary (known for precise *Murattal* rhythm and Tajweed clarity).
 * **Playback Control:** On-demand verse playback to verify tricky stops or diacritics (*Harakat*).
 
----
-
-## 🎨 Color Palette & Design Concept
-
-Waseel utilizes a modern, dark-mode Quranic UI designed to minimize eye strain during night-time revision.
-
-| Color | Hex Code | Usage | Visual |
-| :--- | :--- | :--- | :---: |
-| **Dark Emerald** | `#022c22` | Deep Background / Containers | ![#022c22](https://via.placeholder.com/15/022c22/022c22.png) |
-| **Primary Emerald** | `#059669` | Primary Buttons / Highlights | ![#059669](https://via.placeholder.com/15/059669/059669.png) |
-| **Mint Green** | `#10b981` | Secondary Accents / Badges | ![#10b981](https://via.placeholder.com/15/10b981/10b981.png) |
-| **Bright Teal** | `#34d399` | Gradient Text / Active States | ![#34d399](https://via.placeholder.com/15/34d399/34d399.png) |
-| **Cyan Glow** | `#06b6d4` | Gradient Glows / Dynamic Links | ![#06b6d4](https://via.placeholder.com/15/06b6d4/06b6d4.png) |
 
 ---
 
@@ -132,9 +122,9 @@ Waseel utilizes a modern, dark-mode Quranic UI designed to minimize eye strain d
 
 ## ⚖️ Legal & Licensing
 
-* **Quran Text:** The Arabic text of the Holy Quran is in the public domain.
-* **Audio Recitations:** Audio files are fetched via open educational APIs (e.g., Quran.com / EveryAyah) for educational and non-commercial memory revision.
-* **Source Code License:** Released under the [MIT License](LICENSE). Free for personal use, adaptation, and educational distribution.
+- **Quran Text & Audio:** The Arabic text of the Holy Quran is in the public domain. Audio recitations are sourced via open APIs for educational and non-commercial memory revision.
+- **Source Code License:** Released under the [MIT License](LICENSE). Free for personal use, adaptation, and educational distribution.
+- **Disclaimer of Liability:** This application is provided **"as is"**, without warranty of any kind, express or implied. The author(s) shall not be held liable for any claims, damages, or other liabilities arising from the use of, or inability to use, this software.
 
 ---
 
