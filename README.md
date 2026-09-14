@@ -66,6 +66,11 @@ Rather than standard linear reading, Waseel generates **targeted random verse pr
  │ [ 👁️ Reveal Next Verse ]   [ 🎧 Listen (Al-Hussary) ]   │
  └─────────────────────────────────────────────────────────┘
 
+<br />
+
+</div>
+
+
 ## ✨ Key Features
 
 * **🎯 Juzuk Scope Filtering:** Target your revision precisely. Select a single Juzuk you recently memorized or test broad recall across all 30 Juzuk.
