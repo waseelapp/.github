@@ -67,7 +67,7 @@ Rather than standard linear reading, Waseel generates **targeted random verse pr
  └─────────────────────────────────────────────────────────┘
 
 
-## ✨ Key Features
+##✨ Key Features
 
 * **🎯 Juzuk Scope Filtering:** Target your revision precisely. Select a single Juzuk you recently memorized or test broad recall across all 30 Juzuk.
 * **📖 Sequential Verse Reveal:** Test beyond single verses. Click to reveal the next verse step-by-step to test how far down the Surah you can recite accurately.
@@ -84,3 +84,80 @@ Rather than standard linear reading, Waseel generates **targeted random verse pr
 <br />
 
 Filtering allows you to isolate specific portions of the Quran to match your current revision schedule (*Sabqi* or *Manzil*).
+
+[ Select Range ] ──► [ Juzuk 1 - 5 ] ──► Filtered Pool (1,061 Verses)
+
+
+* **Single Juzuk Focus:** Deep-dive into one Juzuk after a memorization session.
+* **Multi-Juzuk Range:** Review specific blocks of memorized Surahs.
+* **Full Quran Randomizer:** Challenge ultimate recall across all 6,236 Ayahs.
+
+</details>
+
+<details>
+<summary><b>📖 2. Sequential Verse Reveal Mechanism (Click to Expand)</b></summary>
+
+<br />
+
+Testing memory isn't just about identifying a single Ayah—it's about continuing the flow without hesitation.
+
+1. **Initial Prompt:** Receives random Ayah prompt (e.g., *Surah Al-Baqarah 2:255*).
+2. **Mental Recall:** Recite the following Ayahs from memory.
+3. **Interactive Validation:** Tap **"Reveal Next Verse"** to check *Verse 2:256*, *2:257*, and onward.
+
+</details>
+
+<details>
+<summary><b>🎧 3. Audio Verification with Sheikh Al-Hussary (Click to Expand)</b></summary>
+
+<br />
+
+Integrates high-quality audio APIs for instant auditory confirmation.
+
+* **Qari:** Sheikh Mahmoud Khalil Al-Hussary (known for precise *Murattal* rhythm and Tajweed clarity).
+* **Playback Control:** On-demand verse playback to verify tricky stops or diacritics (*Harakat*).
+
+</details>
+
+---
+
+## 🎨 Color Palette & Design Concept
+
+Waseel utilizes a modern, dark-mode Quranic UI designed to minimize eye strain during night-time revision.
+
+| Color | Hex Code | Usage | Visual |
+| :--- | :--- | :--- | :---: |
+| **Dark Emerald** | `#022c22` | Deep Background / Containers | ![#022c22](https://via.placeholder.com/15/022c22/022c22.png) |
+| **Primary Emerald** | `#059669` | Primary Buttons / Highlights | ![#059669](https://via.placeholder.com/15/059669/059669.png) |
+| **Mint Green** | `#10b981` | Secondary Accents / Badges | ![#10b981](https://via.placeholder.com/15/10b981/10b981.png) |
+| **Bright Teal** | `#34d399` | Gradient Text / Active States | ![#34d399](https://via.placeholder.com/15/34d399/34d399.png) |
+| **Cyan Glow** | `#06b6d4` | Gradient Glows / Dynamic Links | ![#06b6d4](https://via.placeholder.com/15/06b6d4/06b6d4.png) |
+
+---
+
+## 💻 Tech Stack & Automation
+
+* **Frontend Core:** HTML5, Modern JavaScript (ES6+), CSS3 (Custom Dark Emerald Theme)
+* **Application Type:** Progressive Web App (PWA) / Offline Storage Ready
+* **CI/CD Automation:** GitHub Actions (`.github/workflows/main.yml`) for automated testing and deployment.
+* **Hosting:** GitHub Pages
+
+---
+
+## ⚖️ Legal & Licensing
+
+* **Quran Text:** The Arabic text of the Holy Quran is in the public domain.
+* **Audio Recitations:** Audio files are fetched via open educational APIs (e.g., Quran.com / EveryAyah) for educational and non-commercial memory revision.
+* **Source Code License:** Released under the [MIT License](LICENSE). Free for personal use, adaptation, and educational distribution.
+
+---
+
+<div align="center">
+
+### 🟢 Ready to strengthen your Hifz?
+
+[**Open Waseel Web App →**](https://shiftedtech.github.io/waseel/)
+
+*Designed for daily revision and memory retention.*
+
+</div>
