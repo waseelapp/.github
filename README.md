@@ -66,8 +66,7 @@ Rather than standard linear reading, Waseel generates **targeted random verse pr
  │ [ 👁️ Reveal Next Verse ]   [ 🎧 Listen (Al-Hussary) ]   │
  └─────────────────────────────────────────────────────────┘
 
-
-##✨ Key Features
+## ✨ Key Features
 
 * **🎯 Juzuk Scope Filtering:** Target your revision precisely. Select a single Juzuk you recently memorized or test broad recall across all 30 Juzuk.
 * **📖 Sequential Verse Reveal:** Test beyond single verses. Click to reveal the next verse step-by-step to test how far down the Surah you can recite accurately.
@@ -78,26 +77,17 @@ Rather than standard linear reading, Waseel generates **targeted random verse pr
 
 ## 💡 How It Works
 
-<details>
-<summary><b>🎯 1. Juzuk Scope Filtering (Click to Expand)</b></summary>
-
-<br />
+### 🎯 1. Juzuk Scope Filtering
 
 Filtering allows you to isolate specific portions of the Quran to match your current revision schedule (*Sabqi* or *Manzil*).
 
-[ Select Range ] ──► [ Juzuk 1 - 5 ] ──► Filtered Pool (1,061 Verses)
-
+`[ Select Range ] ──► [ Juzuk 1 - 5 ] ──► Filtered Pool (1,061 Verses)`
 
 * **Single Juzuk Focus:** Deep-dive into one Juzuk after a memorization session.
 * **Multi-Juzuk Range:** Review specific blocks of memorized Surahs.
 * **Full Quran Randomizer:** Challenge ultimate recall across all 6,236 Ayahs.
 
-</details>
-
-<details>
-<summary><b>📖 2. Sequential Verse Reveal Mechanism (Click to Expand)</b></summary>
-
-<br />
+### 📖 2. Sequential Verse Reveal Mechanism
 
 Testing memory isn't just about identifying a single Ayah—it's about continuing the flow without hesitation.
 
@@ -105,19 +95,12 @@ Testing memory isn't just about identifying a single Ayah—it's about continuin
 2. **Mental Recall:** Recite the following Ayahs from memory.
 3. **Interactive Validation:** Tap **"Reveal Next Verse"** to check *Verse 2:256*, *2:257*, and onward.
 
-</details>
-
-<details>
-<summary><b>🎧 3. Audio Verification with Sheikh Al-Hussary (Click to Expand)</b></summary>
-
-<br />
+### 🎧 3. Audio Verification with Sheikh Al-Hussary
 
 Integrates high-quality audio APIs for instant auditory confirmation.
 
 * **Qari:** Sheikh Mahmoud Khalil Al-Hussary (known for precise *Murattal* rhythm and Tajweed clarity).
 * **Playback Control:** On-demand verse playback to verify tricky stops or diacritics (*Harakat*).
-
-</details>
 
 ---
 
@@ -152,12 +135,8 @@ Waseel utilizes a modern, dark-mode Quranic UI designed to minimize eye strain d
 
 ---
 
-<div align="center">
-
 ### 🟢 Ready to strengthen your Hifz?
 
 [**Open Waseel Web App →**](https://shiftedtech.github.io/waseel/)
 
 *Designed for daily revision and memory retention.*
-
-</div>
