@@ -66,6 +66,7 @@ Rather than standard linear reading, Waseel generates **targeted random verse pr
  │ [ 👁️ Reveal Next Verse ]   [ 🎧 Listen (Al-Hussary) ]   │
  └─────────────────────────────────────────────────────────┘
 
+```
 ___
 
 ## ✨ Key Features
